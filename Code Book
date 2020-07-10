@@ -1,0 +1,23 @@
+Code book
+
+Here are the explanations for my variables in this project:
+
+parts- This contained the text file parts of the features.txt file
+data.train.x- This read the training text file
+data.train.activity- This read the activity text file
+data.train.subject- This read the subject train text file.
+
+data.train- This contains the data frame with the subject, activity and training files.
+data.all- This variable binds the training and testing data together. 
+
+mean_std.select- this contained information regarding the mean and standard deviations
+data.sub- This contained the data set containing the mean and standard deviations.
+
+activity.labels- This reads the activity labels
+datasub$activity- This contains all of the activity labels.
+
+name.new- This was a function which changed the names of the variables. 
+data.tidy- this contained information for the new tidy, data set. 
+
+
+
